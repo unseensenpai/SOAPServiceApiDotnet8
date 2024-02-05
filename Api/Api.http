@@ -1,0 +1,3 @@
+GET {{ApiSoapServiceHostAddress}}/IPersonService/GetPerson?personId=10
+Accept: text/xml
+###    
